@@ -10,6 +10,7 @@ import HomePage from './components/homepage.component'
     return (
       <div>
       <HomePage />
+      test
       </div>
     );
   }
